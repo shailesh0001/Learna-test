@@ -1,0 +1,9 @@
+{
+  "name": "@Learna-test/Second",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@Learna-test/First":"1.0.0"
+  }
+}
